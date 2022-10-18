@@ -9,5 +9,6 @@ public class NewJava {
         System.out.println(5);
         System.out.println(123456789);
         System.out.println("master1");
+        System.out.println("git修改");
     }
 }
