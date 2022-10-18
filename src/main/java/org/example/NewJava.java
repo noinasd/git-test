@@ -8,5 +8,6 @@ public class NewJava {
         System.out.println(4);
         System.out.println(5);
         System.out.println(123456);
+        System.out.println("user1");
     }
 }
