@@ -7,6 +7,7 @@ public class NewJava {
         System.out.println("第二次修改了");
         System.out.println(4);
         System.out.println(5);
-        System.out.println(123456);
+        System.out.println(123456789);
+        System.out.println("master1");
     }
 }
