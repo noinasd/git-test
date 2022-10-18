@@ -5,5 +5,6 @@ public class NewJava {
         System.out.println(1234556);
         System.out.println("改过了");
         System.out.println("第二次修改了");
+        System.out.println(4);
     }
 }
