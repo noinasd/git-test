@@ -10,5 +10,6 @@ public class NewJava {
         System.out.println(123456789);
         System.out.println("master1456");
         System.out.println("git修改");
+        System.out.println("git修改2");
     }
 }
